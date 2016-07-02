@@ -20,5 +20,6 @@ repositories {
 
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web:1.4.0.M3'
+    compile 'org.springframework.boot:spring-boot-starter-mustache:1.4.0.M3'
     compile 'org.springframework.boot:spring-boot-starter-test:1.4.0.M3'
 }
