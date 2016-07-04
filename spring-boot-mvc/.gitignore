@@ -1,2 +1,5 @@
 .gradle
 build/
+spring-boot-mvc.iml
+spring-boot-mvc.ipr
+spring-boot-mvc.iws
