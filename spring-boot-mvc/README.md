@@ -4,11 +4,7 @@ Spring Boot MVC demo
 Setup
 ---
 
-Install:
-
-    brew install h2
-
-Or Download from [http://www.h2database.com/html/main.html](http://www.h2database.com/html/main.html)
+Requirements: ``MySQL``, ``JDK 1.8``
 
 Run:
 
