@@ -13,10 +13,11 @@
  *    See the License for the specific language governing permissions and
  *    limitations under the License.
  */
-package sample.mybatis;
+package growth.mvc.demo;
 
 import static org.junit.Assert.assertTrue;
 
+import growth.mvc.demo.controller.CityController;
 import org.junit.ClassRule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -25,7 +26,7 @@ import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = SampleMapperApplication.class)
+@SpringApplicationConfiguration(classes = CityController.class)
 public class SampleMybatisApplicationTest {
 
 	@ClassRule
