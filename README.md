@@ -1,4 +1,4 @@
-# arch-code
+# Arch 101 Source Code
 
 Source Code of https://github.com/phodal/arch
 
@@ -11,8 +11,8 @@ Requirements:
 
  - JDK 1.8
 
- License
- ---
+License
+---
 
 [![Phodal's Idea](http://brand.phodal.com/shields/works-small.svg)](http://ideas.phodal.com/)
 
